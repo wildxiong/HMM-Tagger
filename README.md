@@ -1,5 +1,5 @@
 # Introduction
-In this notebook, you will build a deep neural network that functions as part of an end-to-end machine translation pipeline. Your completed pipeline will accept English text as input and return the French translation.
+In this notebook, 使用 Pomegranate 库构建隐马尔可夫模型，可用于语音识别和语音生成、机器翻译、生物信息学基因识别和计算机视觉人类手势识别，等等。
 
 # Setup
 

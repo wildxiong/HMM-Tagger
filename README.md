@@ -5,9 +5,9 @@ In this notebook, you will build a deep neural network that functions as part of
 
 This project requires GPU acceleration to run efficiently. Support is available to use either of the following two methods for accessing GPU-enabled cloud computing resources.
 
-## Udacity Workspaces (Recommended)
+##  Workspaces (Recommended)
 
-Udacity Workspaces provide remote connection to GPU-enabled instances right from the classroom. Refer to the classroom lesson for this project to find an overview of navigating & using Jupyter notebook Workspaces.
+ Workspaces provide remote connection to GPU-enabled instances right from the classroom. Refer to the classroom lesson for this project to find an overview of navigating & using Jupyter notebook Workspaces.
 
 ## Amazon Web Services (Optional)
 
